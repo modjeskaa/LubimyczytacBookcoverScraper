@@ -1,6 +1,6 @@
 # Lubimyczytac-scraper
 
-Pobiera miniatury okładek książek ze strony lubimyczytac.pl (170x243). 
+Pobiera miniaturę okładki wybranej książki ze strony lubimyczytac.pl (size: 170x243).
 
 Zapisuje je na pulpicie w folderze "book-covers" (jeśli takiego nie ma, tworzy go). 
 
